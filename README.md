@@ -1,4 +1,4 @@
-# ScriptaBrowser
+# ScriptaBrowser (ALPHA)
 Very simple Android browser (Compatible with older versions like 4.2.2)
 
 Scripta Browser is a simple browser for Android devices to do basically (almost) everything.
